@@ -152,11 +152,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Random Hidden Files
+# Random Files
 /.DS_Store
 .DS_Store
-Images/*
-Images/
+Images_1_5/*
+Images_20/*
+Images_1_5/
+Images_20/
+Animation_1_5.gif
+Animation_20.gif
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
